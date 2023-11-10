@@ -41,7 +41,7 @@ fun printMessage(count : Int = 2){ // when we pass from here its call parameter,
     println("hii $i")
 }
 
-// function overloading
+// function overloading: Function with the same name but different parameter or return type
 fun addition(a : Int , b:Int) : Int{
     return a+b
 }
