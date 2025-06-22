@@ -17,8 +17,8 @@ fun main() {
 
     // Range operator
     val no = 10
-    var res = no in 1..5 // range operator : it includes the upper bound which is 5 while checking the condition
-    res  = no in 1 until 5 // until operator : it will not include the upper bound which is 5 while checking the condition
+    var res = no in 1..5 // range operator: it includes the upper bound which is 5 while checking the condition
+    res  = no in 1 until 5 // until operator: it will not include the upper bound which is 5 while checking the condition
 
 
 }
